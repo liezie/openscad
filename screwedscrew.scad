@@ -1,4 +1,4 @@
-// test comment vanuit openscad
+// test comment vanuit openscad..
 
 vijs_hoogte = 10;
 vijs_dikte = 5;
