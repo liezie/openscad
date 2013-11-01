@@ -5,7 +5,7 @@ cylinder(x,0,x*2);
 
 
 }
-
+/nog een comment bij
 
 module start_thing() {
 translate([x/6,0,0]) circle(x);
