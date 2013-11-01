@@ -1,7 +1,7 @@
 vijs_hoogte = 10;
 vijs_dikte = 5;
 punt_hoogte = 2;
-kop_hoogte = 2;
+kop_hoogte = 2; // test
 kop_dikte = 7;
 draad_dikte = 2;
 
