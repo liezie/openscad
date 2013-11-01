@@ -6,7 +6,7 @@ punt_hoogte = 2;
 kop_hoogte = 2; // test 2
 kop_dikte = 7;
 draad_dikte = 2;
-// een nieuwe comment vanuit giteye
+
 module vijs_schacht(vijs_hoogte,vijs_dikte) {
 
 	cylinder(vijs_hoogte,vijs_dikte,vijs_dikte);
