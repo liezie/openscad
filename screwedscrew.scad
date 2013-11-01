@@ -1,3 +1,5 @@
+// test comment vanuit openscad
+
 vijs_hoogte = 10;
 vijs_dikte = 5;
 punt_hoogte = 2;
